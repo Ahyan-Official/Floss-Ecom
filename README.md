@@ -4,12 +4,12 @@ This is an E-Commerce app built using Kotlin and Jetpack Compose, integrated wit
 
 ## Screenshots
 
-![App Screenshot 1](.Screenshot_20250205_055650.jpg)
-![App Screenshot 2](.Screenshot_20250205_055658.jpg)
-![App Screenshot 3](.Screenshot_20250205_055703.jpg)
-![App Screenshot 4](.Screenshot_20250205_055705.jpg)
-![App Screenshot 5](.Screenshot_20250205_055727.jpg)
-![App Screenshot 6](.Screenshot_20250205_055730.jpg)
+![App Screenshot 1](Screenshot_20250205_055650.jpg)
+![App Screenshot 2](Screenshot_20250205_055658.jpg)
+![App Screenshot 3](Screenshot_20250205_055703.jpg)
+![App Screenshot 4](Screenshot_20250205_055705.jpg)
+![App Screenshot 5](Screenshot_20250205_055727.jpg)
+![App Screenshot 6](Screenshot_20250205_055730.jpg)
 
 # E-Commerce App
 
