@@ -6,27 +6,10 @@ This is an E-Commerce app built using Kotlin and Jetpack Compose, integrated wit
 
 Here are some screenshots of the app:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="flex: 33.33%; padding: 5px;">
-    <img src="Screenshot_20250205_055650.jpg" width="100%" />
-  </div>
-  <div style="flex: 33.33%; padding: 5px;">
-    <img src="Screenshot_20250205_055658.jpg" width="100%" />
-  </div>
-  <div style="flex: 33.33%; padding: 5px;">
-    <img src="Screenshot_20250205_055703.jpg" width="100%" />
-  </div>
-  <div style="flex: 33.33%; padding: 5px;">
-    <img src="Screenshot_20250205_055705.jpg" width="100%" />
-  </div>
-  <div style="flex: 33.33%; padding: 5px;">
-    <img src="Screenshot_20250205_055727.jpg" width="100%" />
-  </div>
-  <div style="flex: 33.33%; padding: 5px;">
-    <img src="Screenshot_20250205_055730.jpg" width="100%" />
-  </div>
-</div>
-# E-Commerce App
+| ![App Screenshot 1](Screenshot_20250205_055650.jpg) | ![App Screenshot 2](Screenshot_20250205_055658.jpg) | ![App Screenshot 3](Screenshot_20250205_055703.jpg) |
+| ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| ![App Screenshot 4](Screenshot_20250205_055705.jpg) | ![App Screenshot 5](Screenshot_20250205_055727.jpg) | ![App Screenshot 6](Screenshot_20250205_055730.jpg) |
+
 
 An Android E-Commerce app built using Kotlin and Jetpack Compose. It is modularized, following clean architecture principles for better maintainability and scalability.
 
